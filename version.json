@@ -3,8 +3,10 @@
   "downloadUrl": "https://github.com/mhmdasb0-cmyk/ZAYONI-UPDATES/releases/download/zayoni-v1.0.1.0/zayoni-1.0.0.zip",
   "version": "1.0.1.0",
   "packageUrl": "https://github.com/mhmdasb0-cmyk/ZAYONI-UPDATES/releases/download/zayoni-v1.0.1.0/zayoni-1.0.0.zip",
-  "sha256": "3C5B4AF3A8429FBD4C79C213F5B75ABCF33D3751F7300DD011EDA3CC2C356B7A",
+  "sha256": "D140D5D2910854C25528FD518E07BA49F34E3B2B2DFC0BD666549414C05DFC67",
   "fileSizeBytes": 11583061,
   "releaseNotes": "Release 1.0.1.0.",
-  "publishedAtUtc": "2026-06-21T14:29:10.1044993Z"
+  "publishedAtUtc": "2026-06-21T14:48:57.063582Z",
+  "fileName": "",
+  "notes": ""
 }
